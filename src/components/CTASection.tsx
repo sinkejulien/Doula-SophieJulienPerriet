@@ -32,7 +32,7 @@ export function CTASection({
         "section-padding",
         variant === "default" && "bg-background",
         variant === "warm" && "bg-soleil/20",
-        variant === "featured" && "bg-terre text-creme",
+        variant === "featured" && "bg-nuit text-creme",
         className
       )}
     >

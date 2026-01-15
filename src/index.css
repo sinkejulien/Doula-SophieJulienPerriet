@@ -4,15 +4,11 @@
 @tailwind components;
 @tailwind utilities;
 
-/* 
-  Design System for Doula & Yoga Website
-  Theme: Warm, feminine, sacred, enveloping
-  Primary: #FAEBA8 (warm luminous yellow)
-*/
+
 
 @layer base {
   :root {
-    /* Core brand colors - HSL format */
+
     --color-soleil: 45 91% 82%; /* #FAEBA8 - Primary warm yellow */
     --color-rose: 0 30% 75%; /* Dusty rose */
     --color-sable: 35 35% 85%; /* Warm sand/beige */

@@ -24,7 +24,7 @@ const Index = () => {
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <img
-            src={sophieCours}
+            src={backgroundImg}
             alt="Sophie enseignant le yoga à un groupe de femmes"
             className="w-full h-full object-cover"
           />
